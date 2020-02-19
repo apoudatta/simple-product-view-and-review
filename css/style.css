@@ -1,0 +1,11 @@
+.clr_block{
+	height: 40px;
+	width: 40px;
+}
+
+.crt_box{
+	font-weight: bold;
+    color: white !important;
+    border: 2px solid;
+    padding: 5px;
+}
